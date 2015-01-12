@@ -1,0 +1,133 @@
+Subject,Order#,Type#,Stimulus#,VoteVP1#,VoteVP2#,Type_Name,Stimulus_Name,VoteVP1_Name,VoteVP2_Name
+subject1,0,1,18,2,0,video,gloating,POSITIVA,FELIZ POR ALGUEM
+subject1,1,1,3,2,0,video,satisfaction,POSITIVA,FELIZ POR ALGUEM
+subject1,2,1,8,2,4,video,admiration,POSITIVA,ALIVIADA
+subject1,3,1,20,0,13,video,disgust,NEGATIVA,RESSENTIDA
+subject1,4,1,10,1,19,video,pity,NEUTRA,DESAPONTADA
+subject1,5,1,15,0,19,video,shame,NEGATIVA,DESAPONTADA
+subject1,6,1,12,0,13,video,fear,NEGATIVA,RESSENTIDA
+subject1,7,1,17,0,19,video,remorse,NEGATIVA,DESAPONTADA
+subject1,8,1,16,0,15,video,reproach,NEGATIVA,ENVERGONHADA
+subject1,9,1,2,2,8,video,hope,POSITIVA,ADMIRADA
+subject1,10,1,0,2,1,video,happyfor,POSITIVA,CONTENTE
+subject1,11,1,6,2,3,video,gratification,POSITIVA,SATISFEITA
+subject1,12,1,21,0,21,video,anger,NEGATIVA,COM RAIVA
+subject1,13,1,5,2,6,video,pride,POSITIVA,RECOMPENSADA
+subject1,14,1,14,0,14,video,fearsconfirmed,NEGATIVA,CONFORMADA
+subject1,15,1,13,1,22,video,ressentment,NEUTRA,NDA
+subject1,16,1,7,2,7,video,gratitude,POSITIVA,GRATA
+subject1,17,1,4,2,0,video,relief,POSITIVA,FELIZ POR ALGUEM
+subject1,18,1,11,1,19,video,sadness,NEUTRA,DESAPONTADA
+subject1,19,1,19,0,11,video,disapointment,NEGATIVA,TRISTE
+subject1,20,1,1,2,6,video,joy,POSITIVA,RECOMPENSADA
+subject1,21,1,9,2,5,video,love,POSITIVA,ORGULHOSA
+subject1,22,0,3,2,0,animation,satisfaction,POSITIVA,FELIZ POR ALGUEM
+subject1,23,0,8,2,4,animation,admiration,POSITIVA,ALIVIADA
+subject1,24,0,11,0,13,animation,sadness,NEGATIVA,RESSENTIDA
+subject1,25,0,15,0,15,animation,shame,NEGATIVA,ENVERGONHADA
+subject1,26,0,1,2,3,animation,joy,POSITIVA,SATISFEITA
+subject1,27,0,13,1,14,animation,ressentment,NEUTRA,CONFORMADA
+subject1,28,0,21,0,21,animation,anger,NEGATIVA,COM RAIVA
+subject1,29,0,5,2,0,animation,pride,POSITIVA,FELIZ POR ALGUEM
+subject1,30,0,2,2,6,animation,hope,POSITIVA,RECOMPENSADA
+subject1,31,0,14,1,13,animation,fearsconfirmed,NEUTRA,RESSENTIDA
+subject1,32,0,4,2,0,animation,relief,POSITIVA,FELIZ POR ALGUEM
+subject1,33,0,12,0,21,animation,fear,NEGATIVA,COM RAIVA
+subject1,34,0,18,2,8,animation,gloating,POSITIVA,ADMIRADA
+subject1,35,0,17,1,16,animation,remorse,NEUTRA,CENSURANDO ALGO
+subject1,36,0,10,0,13,animation,pity,NEGATIVA,RESSENTIDA
+subject1,37,0,0,2,1,animation,happyfor,POSITIVA,CONTENTE
+subject1,38,0,20,0,19,animation,disgust,NEGATIVA,DESAPONTADA
+subject1,39,0,19,0,16,animation,disapointment,NEGATIVA,CENSURANDO ALGO
+subject1,40,0,7,1,6,animation,gratitude,NEUTRA,RECOMPENSADA
+subject1,41,0,6,2,7,animation,gratification,POSITIVA,GRATA
+subject1,42,0,9,2,3,animation,love,POSITIVA,SATISFEITA
+subject1,43,0,16,0,16,animation,reproach,NEGATIVA,CENSURANDO ALGO
+subject2,0,1,14,1,19,video,fearsconfirmed,NEUTRA,DESAPONTADA
+subject2,1,1,21,0,21,video,anger,NEGATIVA,COM RAIVA
+subject2,2,1,20,0,11,video,disgust,NEGATIVA,TRISTE
+subject2,3,1,15,0,20,video,shame,NEGATIVA,COM NOJO
+subject2,4,1,1,2,1,video,joy,POSITIVA,CONTENTE
+subject2,5,1,17,1,14,video,remorse,NEUTRA,CONFORMADA
+subject2,6,1,3,2,3,video,satisfaction,POSITIVA,SATISFEITA
+subject2,7,1,12,1,19,video,fear,NEUTRA,DESAPONTADA
+subject2,8,1,19,0,19,video,disapointment,NEGATIVA,DESAPONTADA
+subject2,9,1,9,2,18,video,love,POSITIVA,ESCARNECENDO ALGUEM
+subject2,10,1,5,2,18,video,pride,POSITIVA,ESCARNECENDO ALGUEM
+subject2,11,1,16,0,19,video,reproach,NEGATIVA,DESAPONTADA
+subject2,12,1,2,2,4,video,hope,POSITIVA,ALIVIADA
+subject2,13,1,4,2,4,video,relief,POSITIVA,ALIVIADA
+subject2,14,1,6,2,9,video,gratification,POSITIVA,APAIXONADA
+subject2,15,1,7,0,13,video,gratitude,NEGATIVA,RESSENTIDA
+subject2,16,1,0,2,5,video,happyfor,POSITIVA,ORGULHOSA
+subject2,17,1,11,0,11,video,sadness,NEGATIVA,TRISTE
+subject2,18,1,10,0,17,video,pity,NEGATIVA,COM REMORSO
+subject2,19,1,13,1,13,video,ressentment,NEUTRA,RESSENTIDA
+subject2,20,1,8,2,0,video,admiration,POSITIVA,FELIZ POR ALGUEM
+subject2,21,1,18,2,18,video,gloating,POSITIVA,ESCARNECENDO ALGUEM
+subject2,22,0,13,1,22,animation,ressentment,NEUTRA,NDA
+subject2,23,0,20,0,11,animation,disgust,NEGATIVA,TRISTE
+subject2,24,0,9,2,3,animation,love,POSITIVA,SATISFEITA
+subject2,25,0,6,2,2,animation,gratification,POSITIVA,ESPERANCOSA
+subject2,26,0,10,0,19,animation,pity,NEGATIVA,DESAPONTADA
+subject2,27,0,21,0,21,animation,anger,NEGATIVA,COM RAIVA
+subject2,28,0,5,2,18,animation,pride,POSITIVA,ESCARNECENDO ALGUEM
+subject2,29,0,3,2,18,animation,satisfaction,POSITIVA,ESCARNECENDO ALGUEM
+subject2,30,0,7,0,10,animation,gratitude,NEGATIVA,COM PENA
+subject2,31,0,0,1,8,animation,happyfor,NEUTRA,ADMIRADA
+subject2,32,0,4,2,14,animation,relief,POSITIVA,CONFORMADA
+subject2,33,0,11,0,19,animation,sadness,NEGATIVA,DESAPONTADA
+subject2,34,0,15,0,11,animation,shame,NEGATIVA,TRISTE
+subject2,35,0,19,0,19,animation,disapointment,NEGATIVA,DESAPONTADA
+subject2,36,0,8,2,1,animation,admiration,POSITIVA,CONTENTE
+subject2,37,0,17,0,11,animation,remorse,NEGATIVA,TRISTE
+subject2,38,0,2,2,18,animation,hope,POSITIVA,ESCARNECENDO ALGUEM
+subject2,39,0,16,0,21,animation,reproach,NEGATIVA,COM RAIVA
+subject2,40,0,18,2,18,animation,gloating,POSITIVA,ESCARNECENDO ALGUEM
+subject2,41,0,14,0,19,animation,fearsconfirmed,NEGATIVA,DESAPONTADA
+subject2,42,0,1,2,3,animation,joy,POSITIVA,SATISFEITA
+subject2,43,0,12,0,17,animation,fear,NEGATIVA,COM REMORSO
+subject3,0,1,11,0,19,video,sadness,NEGATIVA,DESAPONTADA
+subject3,1,1,1,2,1,video,joy,POSITIVA,CONTENTE
+subject3,2,1,19,0,19,video,disapointment,NEGATIVA,DESAPONTADA
+subject3,3,1,20,0,20,video,disgust,NEGATIVA,COM NOJO
+subject3,4,1,2,2,5,video,hope,POSITIVA,ORGULHOSA
+subject3,5,1,10,0,13,video,pity,NEGATIVA,RESSENTIDA
+subject3,6,1,3,2,3,video,satisfaction,POSITIVA,SATISFEITA
+subject3,7,1,8,2,5,video,admiration,POSITIVA,ORGULHOSA
+subject3,8,1,7,2,7,video,gratitude,POSITIVA,GRATA
+subject3,9,1,13,3,14,video,ressentment,NAO SEI OPINAR,CONFORMADA
+subject3,10,1,5,2,8,video,pride,POSITIVA,ADMIRADA
+subject3,11,1,16,0,13,video,reproach,NEGATIVA,RESSENTIDA
+subject3,12,1,4,2,1,video,relief,POSITIVA,CONTENTE
+subject3,13,1,14,0,4,video,fearsconfirmed,NEGATIVA,ALIVIADA
+subject3,14,1,18,2,0,video,gloating,POSITIVA,FELIZ POR ALGUEM
+subject3,15,1,17,0,11,video,remorse,NEGATIVA,TRISTE
+subject3,16,1,0,2,1,video,happyfor,POSITIVA,CONTENTE
+subject3,17,1,12,0,21,video,fear,NEGATIVA,COM RAIVA
+subject3,18,1,9,2,2,video,love,POSITIVA,ESPERANCOSA
+subject3,19,1,6,2,0,video,gratification,POSITIVA,FELIZ POR ALGUEM
+subject3,20,1,21,0,21,video,anger,NEGATIVA,COM RAIVA
+subject3,21,1,15,0,17,video,shame,NEGATIVA,COM REMORSO
+subject3,22,0,5,3,0,animation,pride,NAO SEI OPINAR,FELIZ POR ALGUEM
+subject3,23,0,4,3,22,animation,relief,NAO SEI OPINAR,NDA
+subject3,24,0,12,3,22,animation,fear,NAO SEI OPINAR,NDA
+subject3,25,0,11,3,22,animation,sadness,NAO SEI OPINAR,NDA
+subject3,26,0,0,2,1,animation,happyfor,POSITIVA,CONTENTE
+subject3,27,0,13,1,14,animation,ressentment,NEUTRA,CONFORMADA
+subject3,28,0,6,2,22,animation,gratification,POSITIVA,NDA
+subject3,29,0,19,0,19,animation,disapointment,NEGATIVA,DESAPONTADA
+subject3,30,0,18,2,1,animation,gloating,POSITIVA,CONTENTE
+subject3,31,0,1,2,7,animation,joy,POSITIVA,GRATA
+subject3,32,0,21,0,21,animation,anger,NEGATIVA,COM RAIVA
+subject3,33,0,7,1,7,animation,gratitude,NEUTRA,GRATA
+subject3,34,0,14,3,19,animation,fearsconfirmed,NAO SEI OPINAR,DESAPONTADA
+subject3,35,0,20,0,20,animation,disgust,NEGATIVA,COM NOJO
+subject3,36,0,17,1,14,animation,remorse,NEUTRA,CONFORMADA
+subject3,37,0,2,2,2,animation,hope,POSITIVA,ESPERANCOSA
+subject3,38,0,16,0,13,animation,reproach,NEGATIVA,RESSENTIDA
+subject3,39,0,3,2,1,animation,satisfaction,POSITIVA,CONTENTE
+subject3,40,0,10,0,19,animation,pity,NEGATIVA,DESAPONTADA
+subject3,41,0,15,0,16,animation,shame,NEGATIVA,CENSURANDO ALGO
+subject3,42,0,8,2,5,animation,admiration,POSITIVA,ORGULHOSA
+subject3,43,0,9,2,9,animation,love,POSITIVA,APAIXONADA
